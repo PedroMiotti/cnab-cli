@@ -2,7 +2,7 @@
 
 #### Leitor de Arquivos CNAB por Linha de Comando
 
-![Demonstração da CLI](.github/readme/demo.gif)
+![Demonstração da CLI](.github/readme/F3Capital-Demo.gif)
 
 ---
 
