@@ -2,13 +2,12 @@
 
 #### Leitor de Arquivos CNAB por Linha de Comando
 
-![Demonstração da CLI](.github/readme/F3Capital-Demo.gif)
-
----
 
 ## Visão Geral
 
 Aplicação CLI para o teste tecnico da F3 Capital, desenvolvida para leitura, busca e extração de dados de arquivos CNAB (Centro Nacional de Automação Bancária), utilizando Node.js e TypeScript.
+
+![Demonstração da CLI](.github/readme/F3Capital-Demo.gif)
 
 ---
 
