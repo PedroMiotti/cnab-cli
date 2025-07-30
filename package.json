@@ -1,0 +1,33 @@
+{
+  "name": "f3capital-techinical-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node bin/index.ts",
+    "build": "tsc",
+    "dev": "ts-node-dev bin/index.ts",
+    "test": "vitest"
+  },
+  "bin": {
+    "cnab-cli": "./dist/bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "inquirer": "^12.9.0",
+    "ora": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^0.4.31",
+    "@types/commander": "^2.12.0",
+    "@types/inquirer": "^9.0.8",
+    "@types/node": "^24.1.0",
+    "@types/ora": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
