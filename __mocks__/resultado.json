@@ -1,0 +1,666 @@
+[
+  {
+    "name": "NTT BRASIL COMERCIO E SERVICOS DE TECNOL",
+    "address": "AVENIDA DOUTOR CHUCRI ZAIDAN, 1240 ANDAR",
+    "neighborhood": "VILA SAO FRANC",
+    "cep": "04711130",
+    "city": "SAO PAULO",
+    "state": "SP",
+    "sourceLine": 4,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "NTT BRASIL COMERCIO E SERVICOS DE TECNOL",
+    "address": "AVENIDA DOUTOR CHUCRI ZAIDAN, 1240 ANDAR",
+    "neighborhood": "VILA SAO FRANC",
+    "cep": "04711130",
+    "city": "SAO PAULO",
+    "state": "SP",
+    "sourceLine": 7,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "CAIXA SEGURADORA SA",
+    "address": "QD SHN 1 BLOCO E LT 0 ASA NORTE, SN ED S",
+    "neighborhood": "ASA NORTE",
+    "cep": "70701050",
+    "city": "BRASILIA",
+    "state": "DF",
+    "sourceLine": 10,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "REDECARD SA",
+    "address": "AVENIDA DO ESTADO, 5533 2 ANDAR - GERENC",
+    "neighborhood": "MOOCA",
+    "cep": "03105003",
+    "city": "SAO PAULO",
+    "state": "SP",
+    "sourceLine": 13,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "REDECARD SA",
+    "address": "AVENIDA DO ESTADO, 5533 2 ANDAR - GERENC",
+    "neighborhood": "MOOCA",
+    "cep": "03105003",
+    "city": "SAO PAULO",
+    "state": "SP",
+    "sourceLine": 16,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "REDECARD SA",
+    "address": "AVENIDA DO ESTADO, 5533 2 ANDAR - GERENC",
+    "neighborhood": "MOOCA",
+    "cep": "03105003",
+    "city": "SAO PAULO",
+    "state": "SP",
+    "sourceLine": 19,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "REDECARD SA",
+    "address": "AVENIDA DO ESTADO, 5533 2 ANDAR - GERENC",
+    "neighborhood": "MOOCA",
+    "cep": "03105003",
+    "city": "SAO PAULO",
+    "state": "SP",
+    "sourceLine": 22,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "REDECARD SA",
+    "address": "AVENIDA DO ESTADO, 5533 2 ANDAR - GERENC",
+    "neighborhood": "MOOCA",
+    "cep": "03105003",
+    "city": "SAO PAULO",
+    "state": "SP",
+    "sourceLine": 25,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "DIMED SA DISTRIBUIDORA DE MEDICAMENTOS",
+    "address": "RUA ENG AFONSO CAVALCANTI, 100",
+    "neighborhood": "BELA VISTA",
+    "cep": "90440110",
+    "city": "PORTO ALEGRE",
+    "state": "RS",
+    "sourceLine": 28,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "ARAUCO DO BRASIL SA",
+    "address": "AV IGUACU, 2820",
+    "neighborhood": "AGUA VERDE",
+    "cep": "80240031",
+    "city": "CURITIBA",
+    "state": "PR",
+    "sourceLine": 31,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "ARAUCO DO BRASIL SA",
+    "address": "AV IGUACU, 2820",
+    "neighborhood": "AGUA VERDE",
+    "cep": "80240031",
+    "city": "CURITIBA",
+    "state": "PR",
+    "sourceLine": 34,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "ELECTROLUX DO BRASIL SA",
+    "address": "RUA MIN GABRIEL PASSOS, 360",
+    "neighborhood": "GUABIROTUBA",
+    "cep": "81520900",
+    "city": "CURITIBA",
+    "state": "PR",
+    "sourceLine": 37,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "FURUKAWA ELECTRIC LATAM SA",
+    "address": "RUA HASDRUBAL BELLEGARD, 820 N/A",
+    "neighborhood": "CIDADE INDUSTR",
+    "cep": "82590100",
+    "city": "CURITIBA",
+    "state": "PR",
+    "sourceLine": 40,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "ADENTRO DATA CENTER SOLUTIONS LTDA",
+    "address": "RUA R ENG AFONSO CAVALCANTI, 100",
+    "cep": "00000000",
+    "city": "PORTO ALEGRE",
+    "state": "RS",
+    "sourceLine": 43,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "COOPERATIVA CENTRAL DE COOPERATIVAS UNIM",
+    "address": "RUA BAGE, 300",
+    "neighborhood": "NITEROI",
+    "cep": "92120190",
+    "city": "CANOAS",
+    "state": "RS",
+    "sourceLine": 46,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "HORFRAN COMERCIAL ELETRO MOVEIS LTDA",
+    "address": "AV ANITA GARIBALDI, 1593 NA",
+    "neighborhood": "AHU",
+    "cep": "82200530",
+    "city": "CURITIBA",
+    "state": "PR",
+    "sourceLine": 49,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "FOURBANK TECNOLOGIA E EXPERTISE PARA O S",
+    "address": "R DOM PEDRO II, 1220",
+    "neighborhood": "SAO JOAO",
+    "cep": "90550141",
+    "city": "PORTO ALEGRE",
+    "state": "RS",
+    "sourceLine": 52,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "SLC AGRICOLA SA",
+    "address": "RUA BERNARDO PIRES, 128",
+    "neighborhood": "SANTANA",
+    "cep": "90620010",
+    "city": "PORTO ALEGRE",
+    "state": "RS",
+    "sourceLine": 55,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  },
+  {
+    "name": "ZENVIA MOBILE SERVICOS DIGITAIS AS",
+    "address": "AVENIDA CARLOS GOMES, 300 7  ANDAR",
+    "neighborhood": "AUXILIADORA",
+    "cep": "90480000",
+    "city": "PORTO ALEGRE",
+    "state": "RS",
+    "sourceLine": 58,
+    "positions": {
+      "name": [
+        33,
+        73
+      ],
+      "address": [
+        73,
+        113
+      ],
+      "neighborhood": [
+        113,
+        127
+      ],
+      "cep": [
+        128,
+        136
+      ],
+      "city": [
+        136,
+        151
+      ],
+      "state": [
+        151,
+        153
+      ]
+    }
+  }
+]
