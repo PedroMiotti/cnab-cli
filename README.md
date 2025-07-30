@@ -1,4 +1,5 @@
 ## CNAB CLI
+
 #### Leitor de Arquivos CNAB por Linha de Comando
 
 ![CNAB CLI](https://user-images.githubusercontent.com/placeholder/example-cli.gif)
@@ -57,6 +58,10 @@ npx ts-node bin/index.ts [comando] [opções]
 
 ```bash
 npx ts-node bin/index.ts parse --from 35 --to 73 --segment q
+
+// Ou com apenas Javascript:
+
+node dist/bin/index.js parse --from 34 --to 73 --segment p
 ```
 
 ---
