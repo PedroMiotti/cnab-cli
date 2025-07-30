@@ -95,7 +95,7 @@ npx ts-node bin/index.ts search --name "BRASIL COMERCIO E SERVICOS"
 Exporta os dados de empresas (nome, endereço, CEP, cidade, estado) do segmento `Q` para um JSON.
 
 ```bash
-npx ts-node bin/index.ts export --out resultado.json
+npx ts-node bin/index.ts export --out __mocks__/resultado.json
 ```
 
 ---
