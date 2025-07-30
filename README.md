@@ -2,7 +2,7 @@
 
 #### Leitor de Arquivos CNAB por Linha de Comando
 
-![CNAB CLI](https://user-images.githubusercontent.com/placeholder/example-cli.gif)
+![Demonstração da CLI](.github/readme/demo.gif)
 
 ---
 
