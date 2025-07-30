@@ -57,7 +57,7 @@ npx ts-node bin/index.ts [comando] [opções]
 **Exemplo:**
 
 ```bash
-npx ts-node bin/index.ts parse --from 35 --to 73 --segment q
+npx ts-node bin/index.ts parse --from 34 --to 73 --segment q
 
 // Ou com apenas Javascript:
 
@@ -73,7 +73,7 @@ node dist/bin/index.js parse --from 34 --to 73 --segment p
 Extrai dados de um segmento específico, com base em posições fixas.
 
 ```bash
-npx ts-node bin/index.ts parse --from 35 --to 73 --segment q
+npx ts-node bin/index.ts parse --from 34 --to 73 --segment q
 ```
 
 Caso você não informe os parâmetros, a CLI irá perguntar via prompt interativo.
@@ -95,7 +95,7 @@ npx ts-node bin/index.ts search --name "BRASIL COMERCIO E SERVICOS"
 Exporta os dados de empresas (nome, endereço, CEP, cidade, estado) do segmento `Q` para um JSON.
 
 ```bash
-npx ts-node bin/index.ts export --out resultado.json
+npx ts-node bin/index.ts export --out __mocks__/resultado.json
 ```
 
 ---
